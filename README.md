@@ -8,9 +8,9 @@ Hi, I’m Mads — a full-stack developer, sacred system architect, and gentle r
 - 🧘‍♂️ Building [Sacred AI](https://sacred-ai.com) – emotional intelligence for the soul, not just the screen
 - 🧪 Explorer of lightweight, meaningful tools — from counters to conflict comforters
 - 🇩🇰 Based in Denmark · Open to remote freelance & collaboration
-
+<!--
 ![MySiteChart badge](https://api.mysitechart.com/badge/madspaaskesen/count.svg)
-
+-->
 > “Build something that whispers truth — even in silence.”
 
 ---
