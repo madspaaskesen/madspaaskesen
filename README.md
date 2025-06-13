@@ -14,6 +14,15 @@ Hi, I’m Mads — a full-stack developer, sacred system architect, and gentle r
 > “Build something that whispers truth — even in silence.”
 
 ---
+
+🪄 If something here makes you smile, think, or feel — a ⭐ star is always appreciated.
+
+🔧 Curious minds are welcome — feel free to fork, remix, or open an issue.
+
+🌊 I believe in open tools that gently ripple through others. If you build on something I've made — I’d *love* to hear about it.
+
+---
+
 🌿 [mp-it.dk](https://mp-it.dk) | 🧠 [LinkedIn](https://linkedin.com/in/madspaaskesen) | 🌙 [sacred-ai.com](https://sacred-ai.com)
 
 
