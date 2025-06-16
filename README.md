@@ -23,7 +23,7 @@ Hi, I’m Mads — a full-stack developer, sacred system architect, and gentle r
 
 ---
 
-🌿 [mp-it.dk](https://mp-it.dk) | 🧠 [LinkedIn](https://linkedin.com/in/madspaaskesen) | 🌙 [sacred-ai.com](https://sacred-ai.com)
+🌿 [mp-it.dk](https://mp-it.dk) | 🧠 [FaceBook](https://www.facebook.com/paaskesen.it) - [LinkedIn](https://linkedin.com/in/madspaaskesen) | 🌙 [sacred-ai.com](https://sacred-ai.com)
 
 
 <!--
