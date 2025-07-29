@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# 🕊️ Mads Paaskesen / mp-it.dk
+# 🕊️ Mads Barclay Paaskesen (AKE Mads Paaskeesn) / mp-it.dk
 
 Hi, I’m Mads — a full-stack developer, sacred system architect, and gentle rebel of the web.
 
