@@ -78,7 +78,7 @@ I’ve worked across stacks for decades — I choose tools based on the problem,
 
 ⭐ If something here resonates — feel free to star, fork, or reach out.
 
-[![mySiteChart](https://api.mysitechart.com/badge/github/madspaaskesen)](https://mysitechart.com/In?github=madspaaskesen)
+[![mySiteChart](https://badge.mysitechart.com/badge/github/madspaaskesen)](https://mysitechart.com/In?github=madspaaskesen)
 
 <!--
 Focus: simple, fast systems that actually work.
