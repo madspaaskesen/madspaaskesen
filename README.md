@@ -78,6 +78,8 @@ I’ve worked across stacks for decades — I choose tools based on the problem,
 
 ⭐ If something here resonates — feel free to star, fork, or reach out.
 
+📊 MySiteChart.com GitHub Badge, counter and toplist - get yours for free too.
+
 [![mySiteChart](https://badges.mysitechart.com/github/madspaaskesen)](https://mysitechart.com/In?github=madspaaskesen)
 
 <!--
