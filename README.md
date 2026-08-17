@@ -78,10 +78,17 @@ I’ve worked across stacks for decades — I choose tools based on the problem,
 
 ⭐ If something here resonates — feel free to star, fork, or reach out.
 
+
 📊 MySiteChart.com GitHub Badge, counter and toplist - get yours for free too.
 
 [![mySiteChart](https://badges.mysitechart.com/github/madspaaskesen)](https://mysitechart.com/In?github=madspaaskesen)
 
+---
+
+🇩🇰 Danish version of the Gibhub Toplist
+📊 MySiteChart.dk GitHub Badge, counter and toplist - get yours for free too.
+
+[![mySiteChart](https://badges.mysitechart.com/github/madspaaskesen?site=DK)](https://mysitechart.dk/In?github=madspaaskesen)
 <!--
 Focus: simple, fast systems that actually work.
 
