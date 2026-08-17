@@ -86,6 +86,7 @@ I’ve worked across stacks for decades — I choose tools based on the problem,
 ---
 
 🇩🇰 Danish version of the Gibhub Toplist
+
 📊 MySiteChart.dk GitHub Badge, counter and toplist - get yours for free too.
 
 [![mySiteChart](https://badges.mysitechart.com/github/madspaaskesen?site=DK)](https://mysitechart.dk/In?github=madspaaskesen)
