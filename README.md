@@ -12,6 +12,10 @@ Hi, I’m Mads — a full-stack developer with 30+ years of experience building 
 
   Desktop caption editor for fast, practical video workflows (Electron, ffmpeg, SRT)
 
+- 🎞️ **[GIFmeta](https://gifmeta.com)**  
+
+  Local-first GIF utilities, metadata tools & high-performance media processing
+
 - 📊 **[MySiteChart](https://mysitechart.com)**  
 
   Lightweight traffic & counter service (reborn from an early 2005 project)
