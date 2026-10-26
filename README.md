@@ -74,6 +74,8 @@ I’ve worked across stacks for decades — I choose tools based on the problem,
 
 🌿 [mp-it.dk](https://mp-it.dk)  
 
+🔨 [HardcoreWebsmith.com](https://hardcorewebsmith.com)
+
 💼 [LinkedIn](https://linkedin.com/in/madspaaskesen)  
 
 🌙 [sacred-ai.com](https://sacred-ai.com)
